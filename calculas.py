@@ -6,6 +6,7 @@ class new_class:
 
 print("hello version1 ")
 print("hello version2 ")
+print("hello version3 ")
 
 object1 = new_class('shazi', "shaziii")
 object2 = new_class('bunny', 'bunn')
