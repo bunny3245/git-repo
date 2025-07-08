@@ -5,6 +5,7 @@ class new_class:
         self.father=father
 
 print("hello version1 ")
+print("hello version2 ")
 
 object1 = new_class('shazi', "shaziii")
 object2 = new_class('bunny', 'bunn')
