@@ -7,7 +7,7 @@ class new_class:
 print("hello version1 ")
 print("hello version2 ")
 print("hello version3 ")
-jahdfhhkhhdfhakh
+jahdfhhkhhdfhakh4646373
 object1 = new_class('shazi', "shaziii")
 object2 = new_class('bunny', 'bunn')
 print(object1.name)
